@@ -2,6 +2,8 @@
 
 Welcome to El Regreso RP GitHub Repo, we are a Fivem roleplay server focused on **an arcade role-playing game**. Focused to be a good place for everyone to enjoy to the fullest along with the best systems on the platform, made by our developers.
 
+![bannerdiscord2](https://github.com/El-Regreso-RP/.github/assets/80336428/1c759291-9014-4496-bcb8-031e68f968aa)
+
 ## Social Media:
 
 [Oficial Web](https://elregresorp.es/)
