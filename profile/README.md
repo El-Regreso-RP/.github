@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to El Regreso RP, we are a Fivem roleplay server focused on **an arcade role-playing game**. Focused to be a good place for everyone to enjoy to the fullest along with the best systems on the platform, made by our developers.
+
 <!--
 
 **Here are some ideas to get you started:**
