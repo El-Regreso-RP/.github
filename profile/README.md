@@ -7,6 +7,7 @@ Welcome to El Regreso RP GitHub Repo, we are a Fivem roleplay server focused on 
 ## Social Media:
 
 <p align="left">
+<a href="https://elregresorp.es/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pablosatorre1" height="30" width="40" /></a>
 <a href="https://x.com/elregreso_rp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablosatorre1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/elregreso_rp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pablo_03_cg" height="30" width="40" /></a>
 <a href="https://discord.com/invite/elregresorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/elregresorp" height="30" width="40" /></a>
