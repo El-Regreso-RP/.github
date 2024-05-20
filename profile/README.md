@@ -6,11 +6,12 @@ Welcome to El Regreso RP GitHub Repo, we are a Fivem roleplay server focused on 
 
 ## Social Media:
 
-[Oficial Web](https://elregresorp.es/)
-[Discord](https://discord.com/invite/elregresorp)
-[Instagram](https://www.instagram.com/elregreso_rp/)
-[X](https://x.com/elregreso_rp)
-
+<p align="left">
+<a href="https://x.com/elregreso_rp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablosatorre1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/elregreso_rp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pablo_03_cg" height="30" width="40" /></a>
+<a href="https://discord.com/invite/elregresorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/elregresorp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@elregresorp4631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="notpablo" height="30" width="40" /></a>
+</p>
 ## Contact:
 soporte@elregresorp.es
 <!--
